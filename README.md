@@ -2,12 +2,11 @@
 
 A simple but effective solution for detecting potholes without using AI. Only thing you have to do is to drive safely. Leave the rest to the app. This project was presented as a solution at the [uOttahack5](https://2023.uottahack.ca/) which was held from Feb 10-12 2023 at the University of Ottawa, Ottawa, Canada.
 
-## Made With 
+## Made With ❤️ 
 <div align="left">
   <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/android-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
  </div>
 
 

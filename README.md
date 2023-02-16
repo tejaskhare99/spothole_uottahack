@@ -8,8 +8,8 @@ A simple but effective solution for detecting potholes without using AI. Only th
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/android-orignal-wordmark.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-orignal-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-orignal-wordmark.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  </div>
-</div>
+ </div>
+
 
 ---
 <p align="center">

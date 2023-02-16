@@ -1,5 +1,9 @@
 # Spothole - Detecting potholes smartly 
 
+![image](https://user-images.githubusercontent.com/49532169/219234216-072e0434-9ffa-4c1c-8680-6219efc74c79.png)
+
+
+
 ## Inspiration
 I am an International Graduate Student from India and I used to travel to my undergraduate university on a motorcycle every day. The roads leading to my university were not quite great, making them quite vulnerable to Potholes. I was nearly met with an accident once due to random potholes throughout the city. After coming to Ottawa, I could see a lot of similar potholes in different places. I wanted to do something about these deadly potholes, so my teammates and I built "Spothole".
 

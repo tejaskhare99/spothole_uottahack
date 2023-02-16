@@ -4,7 +4,7 @@ A simple but effective solution for detecting potholes without using AI. Only th
 
 ---
 
-![image](https://user-images.githubusercontent.com/49532169/219234216-072e0434-9ffa-4c1c-8680-6219efc74c79.png)
+<img src="https://user-images.githubusercontent.com/49532169/219234216-072e0434-9ffa-4c1c-8680-6219efc74c79.png" width="300" height="600">
 
 
 

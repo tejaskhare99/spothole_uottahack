@@ -1,5 +1,9 @@
 # Spothole - Detecting potholes smartly 
 
+A simple but effective solution for detecting potholes without using AI. Only thing you have to do is to drive safely. Leave the rest to the app. This project was presented as a solution at the [uOttahack5](https://2023.uottahack.ca/) which was held from Feb 10-12 2023 at the University of Ottawa, Ottawa, Canada.
+
+---
+
 ![image](https://user-images.githubusercontent.com/49532169/219234216-072e0434-9ffa-4c1c-8680-6219efc74c79.png)
 
 
